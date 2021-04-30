@@ -109,6 +109,17 @@
       "phone": "(165)-361-8717",
       "picture": "https://randomuser.me/api/portraits/women/46.jpg",
       "id": 19
+    },
+    {
+      "code": "AVS-756.3276.1688.33",
+      "gender": "male",
+      "firstName": "Patrice",
+      "lastName": "Colin",
+      "dob": "1985-06-28T02:30:16.672Z",
+      "email": "patrice.colin@example.com",
+      "phone": "077 551 36 15",
+      "picture": "https://randomuser.me/api/portraits/men/65.jpg",
+      "id": 20
     }
   ],
   "posts": [
