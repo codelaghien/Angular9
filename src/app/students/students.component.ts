@@ -24,7 +24,7 @@ export class StudentsComponent implements OnInit {
     // json-server --watch db.json --port 3000
     // https://www.youtube.com/watch?v=gQZm-UJDT9I&list=PLiNjao7yG414jM-CS3qVGMvlyKU0kDOkz&index=19
     console.log(
-      'Video hướng dẫn: https://www.youtube.com/watch?v=gQZm-UJDT9I&list=PLiNjao7yG414jM-CS3qVGMvlyKU0kDOkz&index=19'
+      'Video hướng dẫn cài json-server (Fake server): https://www.youtube.com/watch?v=gQZm-UJDT9I&list=PLiNjao7yG414jM-CS3qVGMvlyKU0kDOkz&index=19'
     );
     console.log(
       'Phải cài json-server và chạy lệnh: json-server --watch db.json --port 3000'
