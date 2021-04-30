@@ -120,6 +120,17 @@
       "phone": "077 551 36 15",
       "picture": "https://randomuser.me/api/portraits/men/65.jpg",
       "id": 20
+    },
+    {
+      "code": "AVS-756.1692.8911.78",
+      "gender": "female",
+      "firstName": "Kelly",
+      "lastName": "Vidal",
+      "dob": "1986-04-05T20:28:20.066Z",
+      "email": "kelly.vidal@example.com",
+      "phone": "076 033 92 77",
+      "picture": "https://randomuser.me/api/portraits/women/31.jpg",
+      "id": 21
     }
   ],
   "posts": [
