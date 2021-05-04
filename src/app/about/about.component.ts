@@ -11,7 +11,7 @@ export class AboutComponent implements OnInit {
   public name = '';
   public age = '';
   public comments;
-  public posts;
+  public posts = [];
 
   constructor(
     private common: CommonService,
